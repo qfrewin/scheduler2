@@ -39,7 +39,6 @@ export default {
       console.log("ran updateValue()");
       this.inputText = this.getDisplayValue(event.target.value);
       this.$emit('valueChanged', this.inputText);
-
     },
 
     cellBackgroundColor(value) {

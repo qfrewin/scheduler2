@@ -10,7 +10,10 @@
   "dependencies": {
     "axios": "^0.24.0",
     "core-js": "^3.6.5",
+    "one-colorpicker": "^1.0.12",
+    "verte": "^0.0.12",
     "vue": "^2.6.11",
+    "vue-native-color-picker": "^1.2.0",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {

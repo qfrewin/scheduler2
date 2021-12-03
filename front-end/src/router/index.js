@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Assignments from '../views/Assignments.vue'
 import Rotations from '../views/Rotations.vue'
 import Schedules from '../views/Schedules.vue'
+import Settings from '../views/Settings.vue'
 
 Vue.use(VueRouter)
 
@@ -27,6 +28,11 @@ const routes = [
     path: '/schedules',
     name: 'Schedules',
     component: Schedules
+  },
+  {
+    path: '/settings',
+    name: 'Settings',
+    component: Settings
   }
 ]
 

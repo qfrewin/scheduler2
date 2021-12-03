@@ -15,6 +15,9 @@
         <router-link to="/schedules" exact-active-class="active">
           <button>Schedules</button>
         </router-link>
+        <router-link to='/settings' exact-active-class="active">
+          <button>Settings</button>
+        </router-link>
       </div>
     </div>
 
