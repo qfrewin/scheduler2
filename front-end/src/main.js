@@ -62,3 +62,11 @@ new Vue({
   data,
   render: h => h(App)
 }).$mount('#app')
+
+/*
+let item = settings.findone();
+let var2 = item.array//name of the actual Array
+modify
+item.array = var2
+item.save
+*/

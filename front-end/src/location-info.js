@@ -53,7 +53,7 @@ let locationInfo = [
   },
   {
     id: 14,
-    name: "Team Bars",
+    name: "Runway",
   },
   {
     id: 15,

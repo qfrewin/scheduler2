@@ -93,7 +93,7 @@ button {
 }
 .header-container
 button {
-  color: #737373;
+  color: black;
 }
 
 .footer-container
